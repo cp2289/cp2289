@@ -1,4 +1,4 @@
-# Hi, I'm Chiranjeevi ✨
+# Hi, I'm CHIRANJEEVI PODAPATI ✨
 
 💻 Cloud & Infrastructure Engineer | ☁️ Azure | 🛠 DevOps | 🔐 Cybersecurity  
 🌍 Based in Pittsburgh, PA | Open to Remote & Hybrid Opportunities  
