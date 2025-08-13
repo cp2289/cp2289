@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Chiranjeevi ✨
 
-<!--
-**cp2289/cp2289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Infrastructure Engineer | Azure • Kubernetes • Terraform • DevOps  
+📍 Pittsburgh, PA | Open to Remote & Hybrid Roles
 
-Here are some ideas to get you started:
+I design, deploy, and secure scalable cloud and hybrid IT environments.  
+Passionate about automation, observability, and building reliable platforms  
+that balance performance, security, and cost.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Current Focus: AKS, Terraform modules, CI/CD (GitLab/Jenkins)
+- 🔐 Specialties: IAM, Conditional Access, HIPAA/GDPR alignment
+- 📬 Email: chirupodapati@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/chiranjeevipodapati](https://www.linkedin.com/in/chiranjeevipodapati)
